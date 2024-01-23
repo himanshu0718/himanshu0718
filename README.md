@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Automation Testing Skills**
 
-- 🌱 I’m currently learning **Automation Testing Skills**
+- 🌱 I’m currently learning **API Automation Testing using Rest Assured**
 
 - 👯 I’m looking to collaborate on **SDET / Development roles**
 
