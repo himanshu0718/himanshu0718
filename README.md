@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Python Programming Skills**
 
-- 🌱 I’m currently learning ** Automation Testing skills**
+- 🌱 I’m currently learning **Automation Testing skills**
 
 - 👯 I’m looking to collaborate on **SDET / Development roles**
 
