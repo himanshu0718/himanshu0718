@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Himanshu Sharma</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-- 🔭 I’m currently working on **Automation Testing Skills**
+- 🔭 I’m currently working on **Python Programming Skills**
 
-- 🌱 I’m currently learning **Performance Testing using Jmeter and also brushing up other SDET skillset**
+- 🌱 I’m currently learning ** Automation Testing skills**
 
 - 👯 I’m looking to collaborate on **SDET / Development roles**
 
