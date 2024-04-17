@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **SDET Roles**
 
-- 📫 How to reach me **himanshucr718lee@gmail.com**
+- 📫 How to reach me **himanshusharmasoftware@gmail.com**
 
 - ⚡ Hobbies **Running, workout, listening music, watching sports**
 
